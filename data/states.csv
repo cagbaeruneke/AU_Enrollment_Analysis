@@ -1,0 +1,279 @@
+state,state.c
+AK,AK
+Alabama,AL
+Alaska,AL
+AL,AL
+"Alabama, AL",AL
+Arkansas,AR
+Arizona,AZ
+AZ,AZ
+California,CA
+CA,CA
+Colorado,CO
+CO,CO
+Connecticut,CT
+CT,CT
+District of Columbia,DC
+"District of Columbia, DC",DC
+Washington DC,DC
+Delaware,DE
+Florida,FL
+FL,FL
+"Florida, FL",FL
+Georgia,GA
+GA,GA
+Hawaii,HI
+HI,HI
+Iowa,IA
+IA,IA
+Idaho,ID
+Illinois,IL
+IL,IL
+Indiana,IN
+Kansas,KS
+KS,KS
+Kentucky,KY
+KY,KY
+Louisiana,LA
+LA,LA
+Massachusetts,MA
+MA,MA
+Maryland,MD
+MD,MD
+Maine,ME
+Michigan,MI
+MI,MI
+Minnesota,MN
+MN,MN
+"Minnesota, MN",MN
+Missouri,MO
+MO,MO
+Mississippi,MS
+Montana,MT
+MT,MT
+North Carolina,NC
+NC,NC
+North Dakota,ND
+Nebraska,NE
+New Hampshire,NH
+New Jersey,NJ
+NJ,NJ
+New Mexico,NM
+N/A,Null
+(Unspecified),Null
+N.A.,Null
+,Null
+Nevada,NV
+New York,NY
+NY,NY
+Ohio,OH
+OH,OH
+Oklahoma,OK
+OK,OK
+Oregon,OR
+Pennsylvania,PA
+PA,PA
+"Pennsylvania, PA",PA
+Rhode Island,RI
+South Carolina,SC
+SC,SC
+South Dakota,SD
+Tennessee,TN
+TN,TN
+Texas,TX
+TX,TX
+Utah,UT
+UT,UT
+Virginia,VA
+VA,VA
+"Virginia, VA",VA
+Vermont,VT
+Washington,WA
+WA,WA
+Wisconsin,WI
+wisconsin,WI
+West Virginia,WV
+Wyoming,WY
+"Acre, AC",Other
+"Cundinamarca, U",Other
+West Java,Other
+Amman,Other
+Dhaka,Other
+dropdown,Other
+Hessen,Other
+Kenya,Other
+Lagos,Other
+nairobi,Other
+ON,Other
+Puerto Rico,Other
+Southern Kordofan State,Other
+Tehran,Other
+"_ƒ___ç______†Å___ç†è ___±___ç†Å†_†ï , ___™___µ†__µ__†Å___™__ †„_ç______",Other
+_ñ__†Å_____ç,Other
+_´_™†____µ__,Other
+-,Other
+? Select ?,Other
+/,Other
+"ÍÅlava, ES-VI",Other
+AB,Other
+"Aberdeen City, AB",Other
+ABIDJAN / DISTRICT D'ABIDJAN,Other
+Abu Dhabi,Other
+accra,Other
+Addis Ababa,Other
+Aegean State,Other
+Africa,Other
+Agios Athanasios,Other
+"Agrigento, AG",Other
+"Alberta, AB",Other
+algeria,Other
+Almadinah,Other
+Analamanga,Other
+any reputed institute,Other
+Armed Forces,Other
+Armed Forces Africa,Other
+Astana,Other
+Astana city,Other
+Austria,Other
+Baden WÍ_ttenberg,Other
+baghdad_irQ,Other
+Bamako,Other
+Bangkok,Other
+Banten,Other
+Bechem,Other
+berlin,Other
+Berlin,Other
+Burundi,Other
+calefornia,Other
+center,Other
+Center,Other
+CENTER REGION,Other
+CENTRE,Other
+Chad,Other
+Chari Baguirmi,Other
+Chelyabinskaya,Other
+Chisinau,Other
+Chui,Other
+"Cojedes, H",Other
+colombia,Other
+cotonou,Other
+Croatia,Other
+Daerah Istimewa Yogyakarta,Other
+Dakar,Other
+distriro nacional,Other
+Distrito Nacional,Other
+egypt,Other
+Egypt,Other
+"Essex, ES",Other
+estuaire,Other
+FCT Abuja,Other
+"Firenze, FI",Other
+france,Other
+France,Other
+Gelderland,Other
+Geneva,Other
+Germany,Other
+gestion,Other
+Gomel,Other
+Guatemala,Other
+GuinÍ© -Bissau,Other
+H,Other
+Hamburg,Other
+Haut de Seine,Other
+Himachal pradesh,Other
+Ho Chi Minh,Other
+HOHHO,Other
+Hong Kong,Other
+Hordaland,Other
+Ile de France,Other
+indonesia,Other
+Indonesia,Other
+iraq,Other
+Islamabad,Other
+"Israel, Denmark, Thailand, Russia",Other
+Jambi,Other
+Jawa Barat,Other
+kabul,Other
+KADIOGO,Other
+Kandahar,Other
+kathmandu,Other
+Kazakhstan,Other
+Kigali,Other
+KOREA (ROK),Other
+Kurdistan Region,Other
+La Libertad,Other
+laayoune,Other
+libya,Other
+"Limbe, South-West Region",Other
+Managua,Other
+"Manchester, MA",Other
+Maputo,Other
+"Maryland, MD",Other
+Mato Grosso,Other
+MB,Other
+"Milano, MI",Other
+Minas Gerais,Other
+Mogadishu,Other
+monasir,Other
+Moscow,Other
+Moscow Region,Other
+mostaganem,Other
+NAIROBI,Other
+Nasr City,Other
+NATIONAL CAPITAL DISTRICT,Other
+Northern,Other
+Norway,Other
+NSW,Other
+Ogun State,Other
+ondo,Other
+ONK,Other
+Osun State,Other
+Ouagadougou,Other
+Palestine,Other
+panama,Other
+Papua - Indonesia,Other
+"ParÍç, PA",Other
+Pavlodar,Other
+"Pernambuco, PE",Other
+PiauÍ_,Other
+Pohnpei,Other
+Port-au-Prince,Other
+Prachuabkhirikhan,Other
+PUERTO RICO,Other
+Punjab,Other
+Punjab pakistan,Other
+QC,Other
+"Quintana Roo, QR",Other
+Rabat,Other
+Republic of Belarus,Other
+"Rio Grande do Sul, RS",Other
+"Roma, RM",Other
+Rwanda,Other
+"SÍ£o Paulo, SP",Other
+"Sabah, Malaysia",Other
+salÍ©,Other
+Santiago Island,Other
+Schleswig Holstein,Other
+Selangor,Other
+Seoul,Other
+Shewa,Other
+Sindh,Other
+single,Other
+stockholm,Other
+sweden,Other
+Switzeland,Other
+"Syros island, Cyclades",Other
+Tarsus/Mersin,Other
+Tbilisi,Other
+THE HAGUE,Other
+tripoli,Other
+UTTAR PRADESH,Other
+"Valle del Cauca, A",Other
+"Veracruz, VE",Other
+Vestfold,Other
+"Vicenza, VI",Other
+Vilnius,Other
+west bank,Other
+yaounde,Other
+Zamyn-uud,Other
+ZhejiangÇ_ï China,Other
